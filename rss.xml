@@ -1,26 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0">
 
-<channel>
-  <title>Alberto Asir</title>
-  <link>https://alberuko.github.io/alberto_asir/</link>
-  <description>Proyecto ASIR</description>
-  <item>
-    <title>HTML Tutorial</title>
-    <link>https://es.slideshare.net/montoya118/todo-sobre-html5</link>
-    <description>Tutorial de HTML</description>
-  </item>
-  <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml/</link>
-    <description>XML tutorial </description>
-  </item>
-  <item>
-    <title>CSS Tutorial</title>
-    <link>https://developer.mozilla.org/es/docs/Learn/CSS/Introduction_to_CSS/Como_funciona_CSS</link>
-    <description>CSS tutorial</description>
-  </item>
-</channel>
+    <channel>
+        <title>Alberto Asir</title>
+        <link>https://alberuko.github.io/alberto_asir/</link>
+        <description>Proyecto ASIR</description>
+        <language>es</language>
+        <copyright>Alberto. Derechos reservados</copyright>
+        <lastBuildDate>Sat, 12 Jan 2019 00:01:00 +0000 </lastBuildDate>
+        <ttl>1800</ttl>
+        <item>
+            <title>HTML Tutorial</title>
+            <link>https://es.slideshare.net/montoya118/todo-sobre-html5</link>
+            <description>Tutorial de HTML</description>
+            <pubDate>Sat, 12 Jan 2019 15:21:36 GMT </pubDate>
+            <guid isPermaLink="true">https://es.slideshare.net/montoya118/todo-sobre-html5#a2</guid>
+            <author>montoya@montoya.com</author>
+    
+        </item>
+        <item>
+            <title>XML Tutorial</title>
+            <link>https://www.w3schools.com/xml/</link>
+            <description>XML tutorial </description>
+            <pubDate>Sat, 12 Jan 2019 15:21:36 GMT </pubDate>
+            <guid isPermaLink="true">https://www.w3schools.com/xml/#a3</guid>
+            <author>w3schools@w3scholls.com</author>
+        </item>
+        <item>
+            <title>CSS Tutorial</title>
+            <link>https://developer.mozilla.org/es/docs/Learn/CSS/Introduction_to_CSS/Como_funciona_CSS</link>
+            <description>CSS tutorial</description>
+            <pubDate>Sat, 12 Jan 2019 15:21:36 GMT </pubDate>
+            <guid isPermaLink="true">https://developer.mozilla.org/es/docs/Learn/CSS/Introduction_to_CSS/Como_funciona_CSS#a4</guid>
+            <author>mozilla@mozilla.com</author>
+        </item>
+    </channel>
 
 </rss>
