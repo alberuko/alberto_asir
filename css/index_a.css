@@ -12,6 +12,11 @@
     grid-column:1/4;
     grid-row:2/3;
 }
+.nav_index  a img{
+    height: 40px;
+     margin-right: 20px;
+      margin-left: 20px;
+}
 .nav_lateral_index {
     grid-column:1/2;
     grid-row:3/4;
